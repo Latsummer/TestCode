@@ -1,0 +1,10 @@
+﻿生成启动时间为 2019/12/27 10:42:39。
+     1>项目“C:\Users\morgan\Desktop\Mycode\HomeWork_12_27\HomeWork_12_27\HomeWork_12_27.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt HomeWork_12_27.c
+         HomeWork_12_27.c
+     1>已完成生成项目“C:\Users\morgan\Desktop\Mycode\HomeWork_12_27\HomeWork_12_27\HomeWork_12_27.vcxproj”(ClCompile 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.28
